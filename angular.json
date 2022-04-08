@@ -5,7 +5,7 @@
       "projectType": "application",
       "root": "apps/ngshop",
       "sourceRoot": "apps/ngshop/src",
-      "prefix": "bluebits",
+      "prefix": "iSol",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -118,7 +118,7 @@
       "projectType": "application",
       "root": "apps/admin",
       "sourceRoot": "apps/admin/src",
-      "prefix": "bluebits",
+      "prefix": "iSol",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -301,7 +301,7 @@
       "projectType": "library",
       "root": "libs/ui",
       "sourceRoot": "libs/ui/src",
-      "prefix": "bluebits",
+      "prefix": "iSol",
       "architect": {
         "lint": {
           "builder": "@nrwl/linter:eslint",
